@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(M3OEP_lasness
+add_executable(GitHub Repo for Career Prep
         Adventurer.cpp
         Adventurer.h
         Dragon.cpp
