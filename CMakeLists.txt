@@ -14,7 +14,7 @@ add_executable(GitHubRepoForCareerPrep
         Knight.h
         Mage.cpp
         Mage.h
-        main.cpp
         Rogue.cpp
         Rogue.h
+        main.cpp
 )
