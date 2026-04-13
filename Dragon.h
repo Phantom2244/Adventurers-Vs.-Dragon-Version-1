@@ -2,8 +2,8 @@
 // Created by Leo Asness on 2/21/26.
 //
 
-#ifndef M2OEP_DRAGON_H
-#define M2OEP_DRAGON_H
+#ifndef GITHUBREPOFORCAREERPREP_DRAGON_H
+#define GITHUBREPOFORCAREERPREP_DRAGON_H
 
 #include "Adventurer.h"
 

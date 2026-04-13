@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 4.0)
-project(GitHub Repo for Career Prep)
+project(GitHubRepoForCareerPrep)
 
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(GitHub Repo for Career Prep
+add_executable(GitHubRepoForCareerPrep
         Adventurer.cpp
         Adventurer.h
         Dragon.cpp

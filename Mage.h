@@ -2,8 +2,8 @@
 // Created by Leo Asness on 2/21/26.
 //
 
-#ifndef M2OEP_MAGE_H
-#define M2OEP_MAGE_H
+#ifndef GITHUBREPOFORCAREERPREP_MAGE_H
+#define GITHUBREPOFORCAREERPREP_MAGE_H
 
 #include "Adventurer.h"
 

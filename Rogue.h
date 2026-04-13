@@ -2,8 +2,8 @@
 // Created by Leo Asness on 2/21/26.
 //
 
-#ifndef M2OEP_ROGUE_H
-#define M2OEP_ROGUE_H
+#ifndef GITHUBREPOFORCAREERPREP_ROGUE_H
+#define GITHUBREPOFORCAREERPREP_ROGUE_H
 
 #include "Adventurer.h"
 

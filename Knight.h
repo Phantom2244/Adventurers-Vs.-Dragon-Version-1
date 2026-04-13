@@ -2,8 +2,8 @@
 // Created by Leo Asness on 2/21/26.
 //
 
-#ifndef M2OEP_KNIGHT_H
-#define M2OEP_KNIGHT_H
+#ifndef GITHUBREPOFORCAREERPREP_KNIGHT_H
+#define GITHUBREPOFORCAREERPREP_KNIGHT_H
 
 #include "Adventurer.h"
 

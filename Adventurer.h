@@ -2,8 +2,8 @@
 // Created by Leo Asness on 2/18/26.
 //
 
-#ifndef M2OEP_LASNESS_ADVENTURER_H
-#define M2OEP_LASNESS_ADVENTURER_H
+#ifndef GITHUBREPOFORCAREERPREP_ADVENTURER_H
+#define GITHUBREPOFORCAREERPREP_ADVENTURER_H
 
 #include <string>
 #include <iostream>
